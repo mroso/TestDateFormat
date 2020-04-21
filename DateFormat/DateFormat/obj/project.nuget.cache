@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FzwYpUqVvs4OySsiK1PG+NAYJmNRzXu/fnT1MQPwCli2mYHGUwRehZ7ZJWwRQGrBkIfBAHRG6VBKqubsX+f6lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariana.roso\\Desktop\\PROGRAMACION 2\\DateFormat\\DateFormat\\DateFormat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
